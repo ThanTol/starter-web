@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Thanos Tolios> -- <Ninja master> -- <ninja@gaiden>
 
 # THANKS
 
