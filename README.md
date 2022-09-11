@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 Deploy....
 
 ##How To Contribute
+
+###Copyright
+
+2022 Git. Training
